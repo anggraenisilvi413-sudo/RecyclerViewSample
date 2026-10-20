@@ -39,11 +39,17 @@ Jalankan aplikasi di Emulator atau perangkat Android fisik Anda dengan menekan t
 
 📂 Struktur File Utama
 
-activity_main.xml - Layout utama aplikasi yang memuat komponen RecyclerView.
-
-card_view_design.xml - Layout kustom untuk desain setiap baris/item di dalam RecyclerView.
-
-MainActivity - Kelas utama yang mengatur data dan adapter untuk RecyclerView.
+```text
+RecyclerViewSample/
+├── app/src/main/
+│   ├── java/lat/pam/recyclerviewsample/
+│   │   ├── CustomAdapter.kt
+│   │   ├── ItemsViewModel.kt
+│   │   └── MainActivity.kt
+│   └── res/layout/
+│       ├── activity_main.xml
+│       └── card_view_design.xml
+└── README.md
 
 <img width="226" height="455" alt="image" src="https://github.com/user-attachments/assets/632f3adf-9017-45aa-bd63-c5145cb00d1e" />
 
