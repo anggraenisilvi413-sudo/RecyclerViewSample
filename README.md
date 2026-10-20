@@ -55,5 +55,3 @@ Jika Anda ingin berkontribusi pada proyek ini, silakan buat pull request atau bu
 📝 Lisensi
 
 MIT License
-
-gini?
