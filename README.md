@@ -50,6 +50,7 @@ RecyclerViewSample/
 │       ├── activity_main.xml
 │       └── card_view_design.xml
 └── README.md
+```
 
 <img width="226" height="455" alt="image" src="https://github.com/user-attachments/assets/632f3adf-9017-45aa-bd63-c5145cb00d1e" />
 
